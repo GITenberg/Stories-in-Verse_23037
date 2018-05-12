@@ -1,0 +1,29 @@
+_repo: Stories-in-Verse_23037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbey, Henry
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '25640'
+    url: http://www.gutenberg.org/2009/agents/25640
+description: ''
+gutenberg_issued: '2007-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23037'
+  lccn: '18013439'
+language: en
+physical_description_note: 4 p.l., 128 p. 18 x 12 cm.
+publication_note: New York, A.D.F. Randolph & co., 1869.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Stories in Verse
+url: http://www.gutenberg.org/ebooks/23037
